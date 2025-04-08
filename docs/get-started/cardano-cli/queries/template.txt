@@ -1,0 +1,22 @@
+---
+id: 
+sidebar_label: 
+title: 
+sidebar_position:
+description: 
+keywords: 
+---
+
+### Description
+
+### Usage
+
+### Options
+
+### Examples
+
+#### Saving output to a file
+
+### JSON Output Schema
+
+The command returns JSON data with the following structure:
